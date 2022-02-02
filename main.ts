@@ -1,1 +1,18 @@
-
+music.setTempo(120)
+music.playTone(262, music.beat(BeatFraction.Whole))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Half))
+music.playTone(262, music.beat(BeatFraction.Whole))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Half))
+music.playTone(262, music.beat(BeatFraction.Whole))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+music.playTone(262, music.beat(BeatFraction.Quarter))
+basic.forever(function () {
+	
+})
